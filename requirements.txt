@@ -1,0 +1,4 @@
+pytesseract==0.3.6
+pywin32==300
+Pillow==8.1.0
+tk

@@ -1,0 +1,3129 @@
+{
+    "file_name": "000001 copia 2.jpg",
+    "width": 1024,
+    "height": 768,
+    "boxes_regions": 260,
+    "category": "OT",
+    "regions": [
+        {
+            "id": "000001 copia 2_0.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                22,
+                13,
+                25,
+                34
+            ],
+            "detected_text": "N"
+        },
+        {
+            "id": "000001 copia 2_1.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                69,
+                13,
+                93,
+                33
+            ],
+            "detected_text": "TECH"
+        },
+        {
+            "id": "000001 copia 2_2.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                18,
+                67,
+                13,
+                11
+            ],
+            "detected_text": "Oil"
+        },
+        {
+            "id": "000001 copia 2_3.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                33,
+                66,
+                19,
+                12
+            ],
+            "detected_text": "Mfd"
+        },
+        {
+            "id": "000001 copia 2_4.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                73,
+                67,
+                45,
+                11
+            ],
+            "detected_text": "PrdSepA"
+        },
+        {
+            "id": "000001 copia 2_5.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                132,
+                66,
+                44,
+                12
+            ],
+            "detected_text": "PrdSepB"
+        },
+        {
+            "id": "000001 copia 2_6.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                190,
+                65,
+                44,
+                14
+            ],
+            "detected_text": "ChrgPmp"
+        },
+        {
+            "id": "000001 copia 2_7.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                252,
+                67,
+                39,
+                10
+            ],
+            "detected_text": "DSaltA1"
+        },
+        {
+            "id": "000001 copia 2_8.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                13,
+                95,
+                43,
+                14
+            ],
+            "detected_text": "CycSep1"
+        },
+        {
+            "id": "000001 copia 2_9.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                71,
+                96,
+                47,
+                12
+            ],
+            "detected_text": "CycSep2"
+        },
+        {
+            "id": "000001 copia 2_10.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                131,
+                95,
+                46,
+                13
+            ],
+            "detected_text": "CycSep3"
+        },
+        {
+            "id": "000001 copia 2_11.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                190,
+                95,
+                48,
+                13
+            ],
+            "detected_text": "FlashSep"
+        },
+        {
+            "id": "000001 copia 2_12.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                253,
+                96,
+                39,
+                11
+            ],
+            "detected_text": "HPGFltr"
+        },
+        {
+            "id": "000001 copia 2_13.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                15,
+                123,
+                39,
+                14
+            ],
+            "detected_text": "SkmTnk"
+        },
+        {
+            "id": "000001 copia 2_14.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                71,
+                123,
+                50,
+                13
+            ],
+            "detected_text": "AGasMfd"
+        },
+        {
+            "id": "000001 copia 2_15.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                132,
+                123,
+                43,
+                14
+            ],
+            "detected_text": "RcvMfd1"
+        },
+        {
+            "id": "000001 copia 2_16.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                191,
+                124,
+                47,
+                11
+            ],
+            "detected_text": "RcvMfd2"
+        },
+        {
+            "id": "000001 copia 2_17.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                250,
+                125,
+                46,
+                13
+            ],
+            "detected_text": "LnchRcv"
+        },
+        {
+            "id": "000001 copia 2_18.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                56,
+                167,
+                27,
+                13
+            ],
+            "detected_text": "ACK"
+        },
+        {
+            "id": "000001 copia 2_19.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                86,
+                198,
+                40,
+                14
+            ],
+            "detected_text": "Output"
+        },
+        {
+            "id": "000001 copia 2_20.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                88,
+                212,
+                33,
+                12
+            ],
+            "detected_text": "Ramp"
+        },
+        {
+            "id": "000001 copia 2_21.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                84,
+                225,
+                10,
+                11
+            ],
+            "detected_text": "1"
+        },
+        {
+            "id": "000001 copia 2_22.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                108,
+                224,
+                14,
+                12
+            ],
+            "detected_text": "10"
+        },
+        {
+            "id": "000001 copia 2_23.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                7,
+                248,
+                49,
+                14
+            ],
+            "detected_text": "GLYCOL"
+        },
+        {
+            "id": "000001 copia 2_24.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                7,
+                262,
+                72,
+                13
+            ],
+            "detected_text": "CONTACTOR"
+        },
+        {
+            "id": "000001 copia 2_25.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                136,
+                244,
+                14,
+                11
+            ],
+            "detected_text": "SP"
+        },
+        {
+            "id": "000001 copia 2_26.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                137,
+                257,
+                21,
+                11
+            ],
+            "detected_text": "OUT"
+        },
+        {
+            "id": "000001 copia 2_27.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                171,
+                234,
+                8,
+                9
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_28.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                165,
+                245,
+                7,
+                10
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_29.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                162,
+                257,
+                8,
+                9
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_30.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                181,
+                245,
+                23,
+                9
+            ],
+            "detected_text": "RPM"
+        },
+        {
+            "id": "000001 copia 2_31.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                187,
+                256,
+                13,
+                11
+            ],
+            "detected_text": "M"
+        },
+        {
+            "id": "000001 copia 2_32.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                242,
+                216,
+                27,
+                11
+            ],
+            "detected_text": "PAHH"
+        },
+        {
+            "id": "000001 copia 2_33.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                289,
+                216,
+                22,
+                10
+            ],
+            "detected_text": "PAH"
+        },
+        {
+            "id": "000001 copia 2_34.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                247,
+                246,
+                55,
+                13
+            ],
+            "detected_text": "PT-2292"
+        },
+        {
+            "id": "000001 copia 2_35.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                285,
+                260,
+                24,
+                13
+            ],
+            "detected_text": "PSI"
+        },
+        {
+            "id": "000001 copia 2_36.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                254,
+                260,
+                10,
+                13
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_37.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                51,
+                335,
+                30,
+                17
+            ],
+            "detected_text": "OFF"
+        },
+        {
+            "id": "000001 copia 2_38.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                272,
+                316,
+                26,
+                12
+            ],
+            "detected_text": "PAHH"
+        },
+        {
+            "id": "000001 copia 2_39.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                279,
+                347,
+                54,
+                13
+            ],
+            "detected_text": "PT-2298"
+        },
+        {
+            "id": "000001 copia 2_40.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                285,
+                361,
+                8,
+                13
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_41.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                314,
+                361,
+                25,
+                14
+            ],
+            "detected_text": "PSI"
+        },
+        {
+            "id": "000001 copia 2_42.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                46,
+                409,
+                60,
+                14
+            ],
+            "detected_text": "PBE-2298"
+        },
+        {
+            "id": "000001 copia 2_43.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                272,
+                395,
+                24,
+                12
+            ],
+            "detected_text": "PALL"
+        },
+        {
+            "id": "000001 copia 2_44.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                246,
+                417,
+                25,
+                15
+            ],
+            "detected_text": "CLS"
+        },
+        {
+            "id": "000001 copia 2_45.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                273,
+                418,
+                19,
+                14
+            ],
+            "detected_text": "BC"
+        },
+        {
+            "id": "000001 copia 2_46.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                292,
+                419,
+                49,
+                13
+            ],
+            "detected_text": "BYPASS"
+        },
+        {
+            "id": "000001 copia 2_47.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                342,
+                418,
+                42,
+                13
+            ],
+            "detected_text": "ACTIVE"
+        },
+        {
+            "id": "000001 copia 2_48.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                128,
+                442,
+                22,
+                9
+            ],
+            "detected_text": "VFD"
+        },
+        {
+            "id": "000001 copia 2_49.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                123,
+                451,
+                30,
+                11
+            ],
+            "detected_text": "FAULT"
+        },
+        {
+            "id": "000001 copia 2_50.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                38,
+                463,
+                27,
+                11
+            ],
+            "detected_text": "PAHH"
+        },
+        {
+            "id": "000001 copia 2_51.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                84,
+                462,
+                24,
+                12
+            ],
+            "detected_text": "PAH"
+        },
+        {
+            "id": "000001 copia 2_52.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                44,
+                493,
+                54,
+                13
+            ],
+            "detected_text": "PT-2299"
+        },
+        {
+            "id": "000001 copia 2_53.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                50,
+                507,
+                11,
+                13
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_54.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                81,
+                506,
+                23,
+                14
+            ],
+            "detected_text": "PSI"
+        },
+        {
+            "id": "000001 copia 2_55.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                37,
+                540,
+                25,
+                10
+            ],
+            "detected_text": "PALL "
+        },
+        {
+            "id": "000001 copia 2_56.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                85,
+                541,
+                19,
+                10
+            ],
+            "detected_text": "PAL"
+        },
+        {
+            "id": "000001 copia 2_57.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                12,
+                562,
+                26,
+                13
+            ],
+            "detected_text": "CLS"
+        },
+        {
+            "id": "000001 copia 2_58.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                39,
+                562,
+                18,
+                12
+            ],
+            "detected_text": "BC"
+        },
+        {
+            "id": "000001 copia 2_59.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                57,
+                562,
+                49,
+                13
+            ],
+            "detected_text": "BYPASS"
+        },
+        {
+            "id": "000001 copia 2_60.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                108,
+                562,
+                43,
+                12
+            ],
+            "detected_text": "ACTIVE"
+        },
+        {
+            "id": "000001 copia 2_61.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                192,
+                579,
+                44,
+                11
+            ],
+            "detected_text": "HBG-2296"
+        },
+        {
+            "id": "000001 copia 2_62.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                251,
+                578,
+                45,
+                12
+            ],
+            "detected_text": "HBG-2297"
+        },
+        {
+            "id": "000001 copia 2_63.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                71,
+                637,
+                30,
+                16
+            ],
+            "detected_text": "OFF"
+        },
+        {
+            "id": "000001 copia 2_64.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                21,
+                707,
+                22,
+                10
+            ],
+            "detected_text": "VFD"
+        },
+        {
+            "id": "000001 copia 2_65.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                16,
+                718,
+                32,
+                11
+            ],
+            "detected_text": "FAULT"
+        },
+        {
+            "id": "000001 copia 2_66.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                65,
+                712,
+                60,
+                13
+            ],
+            "detected_text": "PBE-2299"
+        },
+        {
+            "id": "000001 copia 2_67.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                190,
+                723,
+                30,
+                11
+            ],
+            "detected_text": "FROM"
+        },
+        {
+            "id": "000001 copia 2_68.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                192,
+                735,
+                64,
+                9
+            ],
+            "detected_text": "CONDENSATE"
+        },
+        {
+            "id": "000001 copia 2_69.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                194,
+                746,
+                56,
+                11
+            ],
+            "detected_text": "SEPARATOR"
+        },
+        {
+            "id": "000001 copia 2_70.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                261,
+                706,
+                29,
+                11
+            ],
+            "detected_text": "FROM"
+        },
+        {
+            "id": "000001 copia 2_71.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                291,
+                707,
+                39,
+                10
+            ],
+            "detected_text": "GLYCOL"
+        },
+        {
+            "id": "000001 copia 2_72.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                270,
+                718,
+                42,
+                10
+            ],
+            "detected_text": "FILTERS"
+        },
+        {
+            "id": "000001 copia 2_73.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                361,
+                689,
+                40,
+                10
+            ],
+            "detected_text": "Output"
+        },
+        {
+            "id": "000001 copia 2_74.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                365,
+                699,
+                32,
+                13
+            ],
+            "detected_text": "Ramp"
+        },
+        {
+            "id": "000001 copia 2_75.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                361,
+                712,
+                8,
+                11
+            ],
+            "detected_text": "1"
+        },
+        {
+            "id": "000001 copia 2_76.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                383,
+                712,
+                15,
+                10
+            ],
+            "detected_text": "10"
+        },
+        {
+            "id": "000001 copia 2_77.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                424,
+                714,
+                56,
+                11
+            ],
+            "detected_text": "SPIC-2299"
+        },
+        {
+            "id": "000001 copia 2_78.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                419,
+                726,
+                15,
+                10
+            ],
+            "detected_text": "PV"
+        },
+        {
+            "id": "000001 copia 2_79.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                419,
+                736,
+                13,
+                10
+            ],
+            "detected_text": "SP"
+        },
+        {
+            "id": "000001 copia 2_80.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                420,
+                749,
+                20,
+                10
+            ],
+            "detected_text": "OUT"
+        },
+        {
+            "id": "000001 copia 2_81.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                453,
+                726,
+                8,
+                9
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_82.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                446,
+                736,
+                8,
+                12
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_83.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                444,
+                749,
+                9,
+                11
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_84.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                460,
+                736,
+                24,
+                11
+            ],
+            "detected_text": "RPM"
+        },
+        {
+            "id": "000001 copia 2_85.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                469,
+                747,
+                12,
+                11
+            ],
+            "detected_text": "M"
+        },
+        {
+            "id": "000001 copia 2_86.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                327,
+                643,
+                25,
+                12
+            ],
+            "detected_text": "LALL"
+        },
+        {
+            "id": "000001 copia 2_87.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                375,
+                643,
+                19,
+                13
+            ],
+            "detected_text": "LAL"
+        },
+        {
+            "id": "000001 copia 2_88.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                435,
+                645,
+                26,
+                12
+            ],
+            "detected_text": "LALL"
+        },
+        {
+            "id": "000001 copia 2_89.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                482,
+                646,
+                19,
+                12
+            ],
+            "detected_text": "LAL"
+        },
+        {
+            "id": "000001 copia 2_90.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                340,
+                611,
+                13,
+                12
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_91.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                447,
+                613,
+                11,
+                12
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_92.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                329,
+                596,
+                65,
+                13
+            ],
+            "detected_text": "LT-2290B"
+        },
+        {
+            "id": "000001 copia 2_93.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                438,
+                599,
+                64,
+                12
+            ],
+            "detected_text": "LT-2290A"
+        },
+        {
+            "id": "000001 copia 2_94.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                435,
+                568,
+                27,
+                11
+            ],
+            "detected_text": "LAHH"
+        },
+        {
+            "id": "000001 copia 2_95.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                482,
+                568,
+                21,
+                11
+            ],
+            "detected_text": "LAH"
+        },
+        {
+            "id": "000001 copia 2_96.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                507,
+                485,
+                67,
+                15
+            ],
+            "detected_text": "NBC-2290"
+        },
+        {
+            "id": "000001 copia 2_97.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                319,
+                395,
+                20,
+                11
+            ],
+            "detected_text": "PAL"
+        },
+        {
+            "id": "000001 copia 2_98.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                413,
+                399,
+                14,
+                14
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_99.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                444,
+                399,
+                25,
+                13
+            ],
+            "detected_text": "PSI"
+        },
+        {
+            "id": "000001 copia 2_100.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                409,
+                384,
+                56,
+                14
+            ],
+            "detected_text": "PT-2290"
+        },
+        {
+            "id": "000001 copia 2_101.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                505,
+                307,
+                15,
+                69
+            ],
+            "detected_text": "HBG-2292"
+        },
+        {
+            "id": "000001 copia 2_102.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                318,
+                314,
+                23,
+                15
+            ],
+            "detected_text": "PAH"
+        },
+        {
+            "id": "000001 copia 2_103.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                403,
+                352,
+                28,
+                13
+            ],
+            "detected_text": "PAHH"
+        },
+        {
+            "id": "000001 copia 2_104.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                448,
+                353,
+                24,
+                13
+            ],
+            "detected_text": "PAH"
+        },
+        {
+            "id": "000001 copia 2_105.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                323,
+                261,
+                27,
+                12
+            ],
+            "detected_text": "TCV"
+        },
+        {
+            "id": "000001 copia 2_106.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                322,
+                274,
+                27,
+                11
+            ],
+            "detected_text": "2292"
+        },
+        {
+            "id": "000001 copia 2_107.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                389,
+                199,
+                10,
+                12
+            ],
+            "detected_text": "1"
+        },
+        {
+            "id": "000001 copia 2_108.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                411,
+                199,
+                15,
+                11
+            ],
+            "detected_text": "10"
+        },
+        {
+            "id": "000001 copia 2_109.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                390,
+                175,
+                40,
+                12
+            ],
+            "detected_text": "Output "
+        },
+        {
+            "id": "000001 copia 2_110.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                392,
+                187,
+                34,
+                11
+            ],
+            "detected_text": "Ramp"
+        },
+        {
+            "id": "000001 copia 2_111.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                448,
+                197,
+                49,
+                12
+            ],
+            "detected_text": "TIC-2292"
+        },
+        {
+            "id": "000001 copia 2_112.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                440,
+                219,
+                12,
+                11
+            ],
+            "detected_text": "SP"
+        },
+        {
+            "id": "000001 copia 2_113.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                441,
+                232,
+                21,
+                11
+            ],
+            "detected_text": "OUT"
+        },
+        {
+            "id": "000001 copia 2_114.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                476,
+                219,
+                22,
+                10
+            ],
+            "detected_text": "DEG"
+        },
+        {
+            "id": "000001 copia 2_115.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                499,
+                219,
+                7,
+                10
+            ],
+            "detected_text": "C"
+        },
+        {
+            "id": "000001 copia 2_116.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                465,
+                232,
+                8,
+                11
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_117.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                492,
+                231,
+                13,
+                10
+            ],
+            "detected_text": "M"
+        },
+        {
+            "id": "000001 copia 2_118.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                312,
+                66,
+                42,
+                12
+            ],
+            "detected_text": "DSaltA2"
+        },
+        {
+            "id": "000001 copia 2_119.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                371,
+                66,
+                40,
+                12
+            ],
+            "detected_text": "DSaltB1"
+        },
+        {
+            "id": "000001 copia 2_120.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                431,
+                66,
+                41,
+                12
+            ],
+            "detected_text": "DSaltB2"
+        },
+        {
+            "id": "000001 copia 2_121.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                310,
+                96,
+                23,
+                11
+            ],
+            "detected_text": "Gas "
+        },
+        {
+            "id": "000001 copia 2_122.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                332,
+                96,
+                22,
+                11
+            ],
+            "detected_text": "Mfd"
+        },
+        {
+            "id": "000001 copia 2_123.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                310,
+                124,
+                46,
+                13
+            ],
+            "detected_text": "DrainSys"
+        },
+        {
+            "id": "000001 copia 2_124.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                377,
+                125,
+                32,
+                12
+            ],
+            "detected_text": "FlrHdr"
+        },
+        {
+            "id": "000001 copia 2_125.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                372,
+                95,
+                40,
+                14
+            ],
+            "detected_text": "GlyCont"
+        },
+        {
+            "id": "000001 copia 2_126.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                427,
+                94,
+                48,
+                14
+            ],
+            "detected_text": "GlyRgen1"
+        },
+        {
+            "id": "000001 copia 2_127.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                433,
+                123,
+                39,
+                13
+            ],
+            "detected_text": "FireWtr"
+        },
+        {
+            "id": "000001 copia 2_128.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                458,
+                8,
+                35,
+                9
+            ],
+            "detected_text": "Alarm"
+        },
+        {
+            "id": "000001 copia 2_129.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                463,
+                16,
+                26,
+                9
+            ],
+            "detected_text": "Sum"
+        },
+        {
+            "id": "000001 copia 2_130.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                515,
+                8,
+                32,
+                9
+            ],
+            "detected_text": "Alarm"
+        },
+        {
+            "id": "000001 copia 2_131.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                518,
+                16,
+                24,
+                8
+            ],
+            "detected_text": "Hist"
+        },
+        {
+            "id": "000001 copia 2_132.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                568,
+                10,
+                36,
+                14
+            ],
+            "detected_text": "USER"
+        },
+        {
+            "id": "000001 copia 2_133.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                606,
+                12,
+                17,
+                12
+            ],
+            "detected_text": "ID:"
+        },
+        {
+            "id": "000001 copia 2_134.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                519,
+                34,
+                26,
+                9
+            ],
+            "detected_text": "ACK"
+        },
+        {
+            "id": "000001 copia 2_135.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                522,
+                43,
+                21,
+                9
+            ],
+            "detected_text": "ALL"
+        },
+        {
+            "id": "000001 copia 2_136.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                569,
+                33,
+                38,
+                9
+            ],
+            "detected_text": "Master"
+        },
+        {
+            "id": "000001 copia 2_137.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                572,
+                42,
+                32,
+                10
+            ],
+            "detected_text": "Reset"
+        },
+        {
+            "id": "000001 copia 2_138.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                619,
+                33,
+                25,
+                9
+            ],
+            "detected_text": "First"
+        },
+        {
+            "id": "000001 copia 2_139.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                647,
+                33,
+                20,
+                10
+            ],
+            "detected_text": "Out"
+        },
+        {
+            "id": "000001 copia 2_140.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                627,
+                42,
+                32,
+                10
+            ],
+            "detected_text": "Reset"
+        },
+        {
+            "id": "000001 copia 2_141.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                683,
+                33,
+                28,
+                9
+            ],
+            "detected_text": "Horn"
+        },
+        {
+            "id": "000001 copia 2_142.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                679,
+                42,
+                39,
+                9
+            ],
+            "detected_text": "Silence"
+        },
+        {
+            "id": "000001 copia 2_143.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                658,
+                11,
+                85,
+                13
+            ],
+            "detected_text": "administrator"
+        },
+        {
+            "id": "000001 copia 2_144.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                489,
+                66,
+                44,
+                14
+            ],
+            "detected_text": "SrgTnkA"
+        },
+        {
+            "id": "000001 copia 2_145.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                487,
+                95,
+                49,
+                13
+            ],
+            "detected_text": "GlyRgen2"
+        },
+        {
+            "id": "000001 copia 2_146.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                549,
+                66,
+                44,
+                13
+            ],
+            "detected_text": "SrgTnkB"
+        },
+        {
+            "id": "000001 copia 2_147.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                547,
+                95,
+                49,
+                14
+            ],
+            "detected_text": "HeatExch"
+        },
+        {
+            "id": "000001 copia 2_148.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                608,
+                65,
+                46,
+                13
+            ],
+            "detected_text": "FlrScrbA"
+        },
+        {
+            "id": "000001 copia 2_149.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                611,
+                96,
+                14,
+                11
+            ],
+            "detected_text": "HP"
+        },
+        {
+            "id": "000001 copia 2_150.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                627,
+                95,
+                22,
+                12
+            ],
+            "detected_text": "FGS"
+        },
+        {
+            "id": "000001 copia 2_151.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                488,
+                123,
+                48,
+                13
+            ],
+            "detected_text": "FireWtrDI"
+        },
+        {
+            "id": "000001 copia 2_152.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                551,
+                123,
+                37,
+                13
+            ],
+            "detected_text": "Utilities"
+        },
+        {
+            "id": "000001 copia 2_153.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                610,
+                124,
+                41,
+                12
+            ],
+            "detected_text": "FireGas"
+        },
+        {
+            "id": "000001 copia 2_154.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                605,
+                497,
+                65,
+                14
+            ],
+            "detected_text": "EAW-2291"
+        },
+        {
+            "id": "000001 copia 2_155.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                544,
+                570,
+                26,
+                10
+            ],
+            "detected_text": "TAHH"
+        },
+        {
+            "id": "000001 copia 2_156.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                590,
+                569,
+                22,
+                13
+            ],
+            "detected_text": "TAH"
+        },
+        {
+            "id": "000001 copia 2_157.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                670,
+                546,
+                19,
+                10
+            ],
+            "detected_text": "BSL"
+        },
+        {
+            "id": "000001 copia 2_158.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                669,
+                556,
+                21,
+                11
+            ],
+            "detected_text": "2291"
+        },
+        {
+            "id": "000001 copia 2_159.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                624,
+                575,
+                25,
+                14
+            ],
+            "detected_text": "CLS"
+        },
+        {
+            "id": "000001 copia 2_160.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                650,
+                574,
+                17,
+                14
+            ],
+            "detected_text": "BC"
+        },
+        {
+            "id": "000001 copia 2_161.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                668,
+                575,
+                50,
+                14
+            ],
+            "detected_text": "BYPASS"
+        },
+        {
+            "id": "000001 copia 2_162.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                718,
+                575,
+                44,
+                12
+            ],
+            "detected_text": "ACTIVE"
+        },
+        {
+            "id": "000001 copia 2_163.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                544,
+                600,
+                67,
+                14
+            ],
+            "detected_text": "TT-2290A"
+        },
+        {
+            "id": "000001 copia 2_164.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                551,
+                614,
+                14,
+                13
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_165.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                574,
+                614,
+                32,
+                14
+            ],
+            "detected_text": "DEG"
+        },
+        {
+            "id": "000001 copia 2_166.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                607,
+                614,
+                10,
+                14
+            ],
+            "detected_text": "C"
+        },
+        {
+            "id": "000001 copia 2_167.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                718,
+                433,
+                26,
+                11
+            ],
+            "detected_text": "SDV"
+        },
+        {
+            "id": "000001 copia 2_168.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                712,
+                444,
+                36,
+                12
+            ],
+            "detected_text": "2291A"
+        },
+        {
+            "id": "000001 copia 2_169.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                706,
+                296,
+                28,
+                10
+            ],
+            "detected_text": "TAHH"
+        },
+        {
+            "id": "000001 copia 2_170.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                753,
+                295,
+                23,
+                13
+            ],
+            "detected_text": "TAH"
+        },
+        {
+            "id": "000001 copia 2_171.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                712,
+                327,
+                55,
+                14
+            ],
+            "detected_text": "TT-2291"
+        },
+        {
+            "id": "000001 copia 2_172.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                715,
+                340,
+                12,
+                14
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_173.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                735,
+                341,
+                32,
+                13
+            ],
+            "detected_text": "DEG"
+        },
+        {
+            "id": "000001 copia 2_174.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                769,
+                340,
+                10,
+                14
+            ],
+            "detected_text": "C"
+        },
+        {
+            "id": "000001 copia 2_175.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                743,
+                170,
+                40,
+                12
+            ],
+            "detected_text": "Output"
+        },
+        {
+            "id": "000001 copia 2_176.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                745,
+                184,
+                34,
+                11
+            ],
+            "detected_text": "Ramp"
+        },
+        {
+            "id": "000001 copia 2_177.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                742,
+                193,
+                9,
+                13
+            ],
+            "detected_text": "1"
+        },
+        {
+            "id": "000001 copia 2_178.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                766,
+                194,
+                14,
+                11
+            ],
+            "detected_text": "10"
+        },
+        {
+            "id": "000001 copia 2_179.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                668,
+                65,
+                44,
+                13
+            ],
+            "detected_text": "FlrScrbB"
+        },
+        {
+            "id": "000001 copia 2_180.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                670,
+                94,
+                16,
+                11
+            ],
+            "detected_text": "MP"
+        },
+        {
+            "id": "000001 copia 2_181.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                687,
+                95,
+                23,
+                11
+            ],
+            "detected_text": "FGS"
+        },
+        {
+            "id": "000001 copia 2_182.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                672,
+                124,
+                38,
+                11
+            ],
+            "detected_text": "Ovrvw"
+        },
+        {
+            "id": "000001 copia 2_183.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                728,
+                66,
+                44,
+                14
+            ],
+            "detected_text": "ShipPmp"
+        },
+        {
+            "id": "000001 copia 2_184.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                727,
+                96,
+                49,
+                12
+            ],
+            "detected_text": "MPFGCnd"
+        },
+        {
+            "id": "000001 copia 2_185.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                788,
+                67,
+                43,
+                12
+            ],
+            "detected_text": "MtrLnch"
+        },
+        {
+            "id": "000001 copia 2_186.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                788,
+                95,
+                44,
+                13
+            ],
+            "detected_text": "Wtrlnjec"
+        },
+        {
+            "id": "000001 copia 2_187.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                797,
+                6,
+                24,
+                10
+            ],
+            "detected_text": "LOG"
+        },
+        {
+            "id": "000001 copia 2_188.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                797,
+                18,
+                25,
+                9
+            ],
+            "detected_text": "OFF"
+        },
+        {
+            "id": "000001 copia 2_189.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                785,
+                36,
+                46,
+                13
+            ],
+            "detected_text": "ACCESS"
+        },
+        {
+            "id": "000001 copia 2_190.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                841,
+                37,
+                56,
+                13
+            ],
+            "detected_text": "1/20/2008"
+        },
+        {
+            "id": "000001 copia 2_191.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                850,
+                65,
+                15,
+                12
+            ],
+            "detected_text": "LP"
+        },
+        {
+            "id": "000001 copia 2_192.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                867,
+                66,
+                22,
+                11
+            ],
+            "detected_text": "Gas"
+        },
+        {
+            "id": "000001 copia 2_193.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                849,
+                95,
+                43,
+                13
+            ],
+            "detected_text": "SmpDrm"
+        },
+        {
+            "id": "000001 copia 2_194.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                728,
+                124,
+                22,
+                12
+            ],
+            "detected_text": "ESS"
+        },
+        {
+            "id": "000001 copia 2_195.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                751,
+                124,
+                22,
+                13
+            ],
+            "detected_text": "Drag"
+        },
+        {
+            "id": "000001 copia 2_196.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                811,
+                123,
+                23,
+                14
+            ],
+            "detected_text": "Diag"
+        },
+        {
+            "id": "000001 copia 2_197.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                850,
+                124,
+                40,
+                13
+            ],
+            "detected_text": "FrstOut"
+        },
+        {
+            "id": "000001 copia 2_198.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                803,
+                192,
+                48,
+                11
+            ],
+            "detected_text": "TIC-2291"
+        },
+        {
+            "id": "000001 copia 2_199.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                795,
+                227,
+                21,
+                11
+            ],
+            "detected_text": "OUT"
+        },
+        {
+            "id": "000001 copia 2_200.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                830,
+                204,
+                7,
+                9
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_201.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                819,
+                215,
+                9,
+                10
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_202.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                820,
+                227,
+                9,
+                10
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_203.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                831,
+                214,
+                22,
+                10
+            ],
+            "detected_text": "DEG"
+        },
+        {
+            "id": "000001 copia 2_204.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                854,
+                215,
+                6,
+                9
+            ],
+            "detected_text": "C"
+        },
+        {
+            "id": "000001 copia 2_205.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                846,
+                225,
+                14,
+                12
+            ],
+            "detected_text": "M"
+        },
+        {
+            "id": "000001 copia 2_206.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                910,
+                301,
+                25,
+                11
+            ],
+            "detected_text": "BDV"
+        },
+        {
+            "id": "000001 copia 2_207.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                904,
+                312,
+                36,
+                13
+            ],
+            "detected_text": "2291C"
+        },
+        {
+            "id": "000001 copia 2_208.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                835,
+                433,
+                27,
+                13
+            ],
+            "detected_text": "TCV"
+        },
+        {
+            "id": "000001 copia 2_209.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                835,
+                447,
+                26,
+                12
+            ],
+            "detected_text": "2291"
+        },
+        {
+            "id": "000001 copia 2_210.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                763,
+                517,
+                25,
+                12
+            ],
+            "detected_text": "SDV"
+        },
+        {
+            "id": "000001 copia 2_211.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                760,
+                529,
+                34,
+                13
+            ],
+            "detected_text": "2291B"
+        },
+        {
+            "id": "000001 copia 2_212.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                783,
+                560,
+                28,
+                11
+            ],
+            "detected_text": "AAHH"
+        },
+        {
+            "id": "000001 copia 2_213.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                831,
+                560,
+                22,
+                12
+            ],
+            "detected_text": "AAH"
+        },
+        {
+            "id": "000001 copia 2_214.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                788,
+                591,
+                57,
+                12
+            ],
+            "detected_text": "ALT-2291"
+        },
+        {
+            "id": "000001 copia 2_215.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                796,
+                604,
+                11,
+                14
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_216.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                831,
+                603,
+                15,
+                14
+            ],
+            "detected_text": "%"
+        },
+        {
+            "id": "000001 copia 2_217.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                966,
+                699,
+                47,
+                12
+            ],
+            "detected_text": "GLYCOL"
+        },
+        {
+            "id": "000001 copia 2_218.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                944,
+                712,
+                72,
+                12
+            ],
+            "detected_text": "CONTACTOR"
+        },
+        {
+            "id": "000001 copia 2_219.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                960,
+                638,
+                20,
+                10
+            ],
+            "detected_text": "FAL"
+        },
+        {
+            "id": "000001 copia 2_220.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                916,
+                599,
+                58,
+                13
+            ],
+            "detected_text": "FM-2298"
+        },
+        {
+            "id": "000001 copia 2_221.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                951,
+                612,
+                30,
+                13
+            ],
+            "detected_text": "BPD"
+        },
+        {
+            "id": "000001 copia 2_222.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                973,
+                557,
+                19,
+                11
+            ],
+            "detected_text": "PAL"
+        },
+        {
+            "id": "000001 copia 2_223.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                933,
+                510,
+                53,
+                13
+            ],
+            "detected_text": "PT-2291"
+        },
+        {
+            "id": "000001 copia 2_224.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                939,
+                524,
+                10,
+                13
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_225.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                967,
+                523,
+                26,
+                14
+            ],
+            "detected_text": "PSI"
+        },
+        {
+            "id": "000001 copia 2_226.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                974,
+                480,
+                20,
+                10
+            ],
+            "detected_text": "PAH"
+        },
+        {
+            "id": "000001 copia 2_227.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                925,
+                479,
+                27,
+                11
+            ],
+            "detected_text": "PAHH"
+        },
+        {
+            "id": "000001 copia 2_228.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                863,
+                392,
+                11,
+                10
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_229.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                935,
+                394,
+                44,
+                13
+            ],
+            "detected_text": "UTILITY"
+        },
+        {
+            "id": "000001 copia 2_230.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                984,
+                394,
+                24,
+                14
+            ],
+            "detected_text": "GAS"
+        },
+        {
+            "id": "000001 copia 2_231.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                959,
+                301,
+                31,
+                12
+            ],
+            "detected_text": "VENT"
+        },
+        {
+            "id": "000001 copia 2_232.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                992,
+                302,
+                17,
+                12
+            ],
+            "detected_text": "TO"
+        },
+        {
+            "id": "000001 copia 2_233.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                954,
+                314,
+                29,
+                11
+            ],
+            "detected_text": "SAFE"
+        },
+        {
+            "id": "000001 copia 2_234.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                984,
+                315,
+                33,
+                12
+            ],
+            "detected_text": "AREA"
+        },
+        {
+            "id": "000001 copia 2_235.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                915,
+                123,
+                28,
+                12
+            ],
+            "detected_text": "MISC"
+        },
+        {
+            "id": "000001 copia 2_236.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                974,
+                123,
+                34,
+                13
+            ],
+            "detected_text": "Spare"
+        },
+        {
+            "id": "000001 copia 2_237.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                914,
+                96,
+                32,
+                12
+            ],
+            "detected_text": "Spare"
+        },
+        {
+            "id": "000001 copia 2_238.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                972,
+                96,
+                33,
+                12
+            ],
+            "detected_text": "Spare"
+        },
+        {
+            "id": "000001 copia 2_239.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                906,
+                67,
+                24,
+                12
+            ],
+            "detected_text": "SDV"
+        },
+        {
+            "id": "000001 copia 2_240.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                932,
+                67,
+                22,
+                12
+            ],
+            "detected_text": "C&E"
+        },
+        {
+            "id": "000001 copia 2_241.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                966,
+                66,
+                23,
+                11
+            ],
+            "detected_text": "MCC"
+        },
+        {
+            "id": "000001 copia 2_242.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                990,
+                66,
+                22,
+                12
+            ],
+            "detected_text": "C&E"
+        },
+        {
+            "id": "000001 copia 2_243.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                915,
+                35,
+                58,
+                14
+            ],
+            "detected_text": "10:25:38"
+        },
+        {
+            "id": "000001 copia 2_244.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                974,
+                34,
+                27,
+                16
+            ],
+            "detected_text": "PM"
+        },
+        {
+            "id": "000001 copia 2_245.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                873,
+                6,
+                107,
+                11
+            ],
+            "detected_text": "COMMUNICATIONS"
+        },
+        {
+            "id": "000001 copia 2_246.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                905,
+                18,
+                47,
+                10
+            ],
+            "detected_text": "STATUS"
+        },
+        {
+            "id": "000001 copia 2_247.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                142,
+                221,
+                55,
+                13
+            ],
+            "detected_text": "SPIC-2298"
+        },
+        {
+            "id": "000001 copia 2_248.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                136,
+                233,
+                17,
+                12
+            ],
+            "detected_text": "PV"
+        },
+        {
+            "id": "000001 copia 2_249.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                16,
+                168,
+                30,
+                12
+            ],
+            "detected_text": "PREV"
+        },
+        {
+            "id": "000001 copia 2_250.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                92,
+                168,
+                35,
+                11
+            ],
+            "detected_text": "RESET"
+        },
+        {
+            "id": "000001 copia 2_251.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                222,
+                723,
+                41,
+                10
+            ],
+            "detected_text": "GLYCOL-"
+        },
+        {
+            "id": "000001 copia 2_252.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                440,
+                209,
+                15,
+                10
+            ],
+            "detected_text": "PV"
+        },
+        {
+            "id": "000001 copia 2_253.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                466,
+                220,
+                7,
+                10
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_254.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                475,
+                210,
+                7,
+                10
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_255.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                466,
+                232,
+                6,
+                10
+            ],
+            "detected_text": "0"
+        },
+        {
+            "id": "000001 copia 2_256.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                788,
+                123,
+                22,
+                13
+            ],
+            "detected_text": "PCS"
+        },
+        {
+            "id": "000001 copia 2_257.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                796,
+                204,
+                15,
+                9
+            ],
+            "detected_text": "PV"
+        },
+        {
+            "id": "000001 copia 2_258.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                795,
+                215,
+                13,
+                10
+            ],
+            "detected_text": "SP"
+        },
+        {
+            "id": "000001 copia 2_259.jpg",
+            "class": "machine printed",
+            "legibility": "legible",
+            "bbox": [
+                911,
+                613,
+                35,
+                13
+            ],
+            "detected_text": "####"
+        }
+    ]
+}
