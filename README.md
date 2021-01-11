@@ -1,6 +1,5 @@
 # Text Spotting dataset creator
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 Tool to help creating a dataset for text spotting task. 
 
